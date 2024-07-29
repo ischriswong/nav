@@ -129,6 +129,13 @@
           logo: images/logos/appinn.png
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
+
+    - term: 产品
+      links:
+        - title: Producthunt
+          logo: images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
       
     - term: 界面灵感
       links:
