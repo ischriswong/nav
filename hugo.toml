@@ -1,13 +1,13 @@
-baseURL = "http://example.org/"
+baseURL = "http://nav.wangying.us.kg/"
 languageCode = "zh-CN"
-title = "Chris的网址导航"
+title = "颖的导航站"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "chris"
+copyright = "wangying"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
