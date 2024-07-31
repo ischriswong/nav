@@ -12,11 +12,11 @@ draft: false
 
 ### 本站模板
 
-[https://github.com/oulh/nav](https://github.com/ischriswong/nav)
+[https://github.com/ischriswong/nav](https://github.com/ischriswong/nav)
 
 ### 本站主题
 
-[https://github.com/oulh/hugo-webstack](https://github.com/oulh/hugo-webstack)
+[https://github.com/ischriswong/nav](https://github.com/oulh/hugo-webstack)
 
 ### 便捷编辑
 
