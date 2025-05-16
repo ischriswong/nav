@@ -1,7 +1,7 @@
 baseURL               = "https://nav.wangying.me"
 languageCode          = "zh-CN"
 title                 = "小颖的导航站"
-theme                 = "小颖的导航站"
+theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
