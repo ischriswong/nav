@@ -1,6 +1,6 @@
-baseURL               = "https://nav.wangying.me"
+baseURL               = "https://shenweiyan.github.io/WebStack-Demo"
 languageCode          = "zh-CN"
-title                 = "小颖的导航站"
+title                 = "WebStack-Hugo 网址导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
