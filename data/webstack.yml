@@ -35,15 +35,19 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+    - title: DeepSeek
+      logo: deepseek.png
+      url: https://www.chat.deepseek.com/
+      description: 探索未至之境。
     - title: ChatGPT
       logo: chatgpt.png
       url: https://www.chatgpt.com
-      description: 微信公众号：BioIT 爱好者！
+      description: chat.openai.com
+   #- title: 关注我们
+      #logo: 关注.jpg
+      #url: https://www.bioitee.com
+      #qrcode: qrcode.jpg
+      #description: 微信公众号：BioIT 爱好者！
 
 
 - taxonomy: 科研办公
