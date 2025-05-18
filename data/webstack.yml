@@ -565,7 +565,19 @@
         - title: BBC中文网
           url: https://www.bbc.com/zhongwen/simp/
           logo: bbcchinese.png
-          description: 面向全球华人的新闻网站。
+          description: 面向全球华人的新闻资讯网站。
+        - title: The New York Times
+          url: https://www.nytimes.com/
+          logo: nytimes.png
+          description: 具有全球影响力的美国主流媒体。
+        - title: Yahoo香港
+          url: https://hk.news.yahoo.com/
+          logo: yahoo.png
+          description: 提供各类最新焦点及热门新闻。
+        - title: Yahoo奇摩
+          url: https://tw.yahoo.com/
+          logo: yahoo.png
+          description: 台湾多功能资讯平台。
     - term: 资讯书籍
       links:
         - title: 微信读书
