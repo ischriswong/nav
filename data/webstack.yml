@@ -31,10 +31,10 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
+    - title: 今日热榜
+      logo: tophub.jpg
+      url: https://tophub.today/
+      description: 今日热榜提供各站热榜聚合。
     - title: DeepSeek
       logo: deepseek.png
       url: https://chat.deepseek.com/
@@ -154,16 +154,16 @@
           logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
-    - term: 游戏竞技
+    - term: 社交媒体
       links:
         - title: 百度贴吧
           logo: 百度贴吧.jpg
           url: ttps://tieba.baidu.com/index.html
           description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+        - title: 小红书
+          logo: xiaohongshu.png
+          url: https://www.xiaohongshu.com/
+          description: 标记我的生活。
    
       
 - taxonomy: 素材资源
@@ -187,6 +187,10 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
+        - title: pCloud
+          logo: pcloud.png
+          usrl: https://www.pcloud.com/
+          description: 瑞士终身云端硬盘。
     - term: 图标素材
       links:
         - title: Iconfinder
