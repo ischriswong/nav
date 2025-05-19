@@ -694,6 +694,10 @@
           url: https://www.shuziyimin.org/
           logo: shuziyimin.jpg
           description: 数字移民。
+        - title: Y4导航
+          url: https://www.y4dh.com/
+          logo: y4dh.png
+          description: 电影网站导航。
     - term: 在线教育
       links:
         - title: Photoshop Lady
