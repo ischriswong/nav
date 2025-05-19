@@ -91,13 +91,13 @@
           description: 标记我的生活。
     - term: 资讯新闻
       links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.webp
-          url: https://cloud.tencent.com/
+        - title: BBC中文网
+          logo: bbcchinese.png
+          url: https://www.bbc.com/zhongwen/simp/
+          description: 面向全球华人的新闻资讯网站。
+        - title: The New York Times
+          logo: nytimes.png
+          url: https://www.nytimes.com/
           description: 产业智变，云启未来。
         - title: 华为云
           logo: 华为云.png
@@ -518,10 +518,10 @@
           description: Design, prototype, and gather feedback all in one place with Figma.
     - term: 站长工具
       links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
+        - title: 阿里云
+          logo: 阿里云.jpg
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
         - title: uigradients
           url: https://uigradients.com
           logo: uigradients.png
