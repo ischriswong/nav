@@ -98,22 +98,22 @@
         - title: The New York Times
           logo: nytimes.png
           url: https://www.nytimes.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
-          description: 你的生信科研好选择。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
+          description: 具有全球影响力的美国主流报纸。
+        - title: 雅虎香港
+          logo: yahoo.png
+          url: https://hk.news.yahoo.com/
+          description: 雅虎香港新闻。
+        - title: 雅虎奇摩
+          logo: yahoo.png
+          url: https://tw.news.yahoo.com/
+          description: 雅虎台湾新闻。
+        - title: Reuters
+          logo: reuters.png
+          url: https://www.reuters.com/
           description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
+        - title: 美国之音中文网
+          logo: voa.jpg
+          url: https://www.voachinese.com/
           description: 云桌面,一站式云电脑服务平台。
     - term: 电子邮箱
       links:
