@@ -133,30 +133,26 @@
           description: http://www.bioconductor.org
     - term: 云端硬盘
       links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.webp
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
-          description: 你的生信科研好选择。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
+        - title: 百度网盘
+          logo: 百度网盘.jpg
+          url: http://pan.baidu.com/
+          description: https://pan.baidu.com/.
+        - title: 阿里云盘
+          logo: 阿里云盘.png
+          url: https://www.aliyundrive.com/
+          description: 阿里云盘，你的数字世界。
+        - title: 天翼云盘
+          logo: 天翼云盘.jpg
+          url: https://cloud.189.cn/
+          description: 家庭云|网盘|文件备份|资源分享。
+        - title: 坚果云
+          logo: 坚果云.png
+          usrl: https://www.jianguoyun.com/
+          description: 坚果云官网。
+        - title: pCloud
+          logo: pcloud.png
+          usrl: https://www.pcloud.com/
+          description: 欧洲终身云端硬盘。
     - term: 在线翻译
       links:
         - title: 有道词典
@@ -242,7 +238,7 @@
         - title: pCloud
           logo: pcloud.png
           usrl: https://www.pcloud.com/
-          description: 瑞士终身云端硬盘。
+          description: 欧洲终身云端硬盘。
     - term: 图标素材
       links:
         - title: Iconfinder
