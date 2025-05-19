@@ -715,7 +715,7 @@
 
           
 - taxonomy: 职场办公
-  icon: fas fa-pencil-alt fa-lg
+  icon: fas fa-laptop
   list: 
     - term: 资源搜索
       links:
