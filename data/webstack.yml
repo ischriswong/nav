@@ -75,10 +75,10 @@
           logo: r-project.jpg
           url: https://www.r-project.org/
           description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
     - term: 社交媒体
       links:
         - title: 百度贴吧
@@ -163,24 +163,6 @@
           logo: pcloud.png
           usrl: https://www.pcloud.com/
           description: 欧洲终身云端硬盘。
-    - term: 在线翻译
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
         
 
 - taxonomy: 休闲娱乐
@@ -263,7 +245,7 @@
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
-    - term: 网盘资源
+    - term: 综合素材
       links:
         - title: 百度网盘
           logo: 百度网盘.jpg
@@ -339,7 +321,7 @@
           logo: simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack.
-    - term: 图标设计
+    - term: 音频素材
       links:
         - title: Iconsfeed
           logo: iconsfeed.png
@@ -357,60 +339,6 @@
           logo: InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly.
-    - term: 平面素材
-      links:
-        - title: freepik
-          logo: freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: 365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
-        - title: Medialoot
-          logo: Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot.
-        - title: 千图网
-          logo: qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站.
-        - title: 千库网
-          logo: qianku.png
-          url: http://588ku.com/
-          description: 免费 png 图片背景素材下载。
-        - title: 我图网
-          logo: wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
-        - title: 90 设计
-          logo: 90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库。
-        - title: 昵图网
-          logo: nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台。
-        - title: 懒人图库
-          logo: lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载。
-        - title: 素材搜索
-          logo: sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合。
-        - title: PS 饭团网
-          logo: psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台。
     - term: 字体资源
       links:
         - title: Google Font
@@ -473,12 +401,66 @@
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
           description: Abstract Fonts (13,866 free fonts).      
+    - term: 灵感采集
+      links:
+        - title: freepik
+          logo: freepik.png
+          url: https://www.freepik.com/
+          description: More than a million free vectors, PSD, photos and free icons.
+        - title: wallhalla
+          logo: wallhalla.png
+          url: https://wallhalla.com/
+          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+        - title: 365PSD
+          logo: 365PSD.png
+          url: https://365psd.com/
+          description: Free PSD &amp; Graphics, Illustrations.
+        - title: Medialoot
+          logo: Medialoot.png
+          url: https://medialoot.com/
+          description: Free &amp; Premium Design Resources &mdash; Medialoot.
+        - title: 千图网
+          logo: qiantu.png
+          url: http://www.58pic.com/
+          description: 专注免费设计素材下载的网站.
+        - title: 千库网
+          logo: qianku.png
+          url: http://588ku.com/
+          description: 免费 png 图片背景素材下载。
+        - title: 我图网
+          logo: wotu.png
+          url: http://www.ooopic.com/
+          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
+        - title: 90 设计
+          logo: 90sheji.png
+          url: http://90sheji.com/
+          description: 电商设计（淘宝美工）千图免费淘宝素材库。
+        - title: 昵图网
+          logo: nipic.png
+          url: http://www.nipic.com/
+          description: 原创素材共享平台。
+        - title: 懒人图库
+          logo: lanrentuku.png
+          url: http://www.lanrentuku.com/
+          description: 懒人图库专注于提供网页素材下载。
+        - title: 素材搜索
+          logo: sousucai.png
+          url: http://so.ui001.com/
+          description: 设计素材搜索聚合。
+        - title: PS 饭团网
+          logo: psefan.png
+          url: http://psefan.com/
+          description: 不一样的设计素材库！让自己的设计与众不同！
+        - title: 素材中国
+          logo: sccnn.png
+          url: http://www.sccnn.com/
+          description: 免费素材共享平台。
       
 
-- taxonomy: 开发设计
+- taxonomy: 软件工具
   icon: fas fa-tools fa-lg
   list: 
-    - term: 图形创意
+    - term: AI工具
       links:
         - title: photoshop
           url: https://www.adobe.com/cn/products/photoshop.html
@@ -508,7 +490,7 @@
           url: https://www.blender.org/
           logo: blender.png
           description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
+    - term: 软件资源
       links:
         - title: Sketch
           url: https://sketchapp.com/
@@ -534,7 +516,7 @@
           url: https://www.figma.com/
           logo: figma.png
           description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 在线配色
+    - term: 站长工具
       links:
         - title: khroma
           url: http://khroma.co/generator/
@@ -596,7 +578,7 @@
           url: http://www.vanschneider.com/colors
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 在线工具
+    - term: 实用工具
       links:
         - title: tinypng
           url: https://tinypng.com/
@@ -655,32 +637,10 @@
           description: Discover the world's most beautiful places at every opened tab.
 
 
-- taxonomy: 资讯学习
+- taxonomy: 综合专栏
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 资讯新闻
-      links:
-        - title: BBC中文网
-          url: https://www.bbc.com/zhongwen/simp/
-          logo: bbcchinese.png
-          description: 面向全球华人的新闻资讯网站。
-        - title: The New York Times
-          url: https://www.nytimes.com/
-          logo: nytimes.png
-          description: 具有全球影响力的美国主流媒体。
-        - title: Yahoo香港
-          url: https://hk.news.yahoo.com/
-          logo: yahoo.png
-          description: 提供各类最新焦点及热门新闻。
-        - title: Yahoo奇摩
-          url: https://tw.yahoo.com/
-          logo: yahoo.png
-          description: 台湾多功能资讯平台。
-        - title: Reuters
-          url: https://www.reuters.com/
-          logo: reuters.png
-          description: 提供及时、准确的财经和综合新闻报道。
-    - term: 资讯书籍
+    - term: 资源搜索
       links:
         - title: 微信读书
           url: https://weread.qq.com/
@@ -712,7 +672,7 @@
           url: https://www.coolshell.cn/
           logo: ''
           description: 酷 壳 – CoolShell。
-    - term: 设计规范
+    - term: 导航网站
       links:
         - title: Design Guidelines
           url: http://designguidelines.co/
@@ -734,7 +694,7 @@
           url: http://viggoz.com/photoshopetiquette/
           logo: photoshopetiquette.png
           description: PS礼仪-WEB设计指南。
-    - term: 视频教程
+    - term: 在线教育
       links:
         - title: Photoshop Lady
           url: http://www.photoshoplady.com/
