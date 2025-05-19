@@ -490,7 +490,7 @@
           url: https://www.blender.org/
           logo: blender.png
           description: Blender is the free and open source 3D creation suite.
-    - term: 软件资源
+    - term: 软件下载
       links:
         - title: Sketch
           url: https://sketchapp.com/
