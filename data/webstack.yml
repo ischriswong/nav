@@ -137,6 +137,10 @@
           logo: icloudmail.png
           url: https://www.icloud.com/mail
           description: 由 Apple 提供的私密、安全且个性化的电子邮件服务。
+        - title: Yahoo Mail
+          logo: yahoo.png
+          url: https://mail.yahoo.com/
+          description: 雅虎公司推出的免费电子邮件服务。
         - title: Mail.td
           logo: mailtd.png
           url: https://mail.td/
