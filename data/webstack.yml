@@ -498,7 +498,7 @@
       links:
         - title: LocalSend
           url: https://localsend.org/
-          logo: localsend.png
+          logo: LocalSend.png
           description: Share files to nearby devices.
         - title: Quicker
           url: https://getquicker.net/
@@ -514,7 +514,7 @@
           description: ToDesk远程桌面软件
         - title: 搜狗输入法
           url: https://shurufa.sogou.com/
-          logo: 搜狗.png
+          logo: 搜狗微信.jpg
           description: 最好用的电脑输入法。
         - title: 微信输入法
           url: https://z.weixin.qq.com/
