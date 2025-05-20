@@ -130,7 +130,7 @@
           url: https://outlook.live.com/
           description: 微软提供的电子邮件服务。
         - title: 网易邮箱
-          logo: 163mail.png
+          logo: wymail.png
           url: https://email.163.com/
           description: 网易免费邮箱-你的专业电子邮局。
         - title: iCloud邮箱
