@@ -496,30 +496,30 @@
           description: Blender is the free and open source 3D creation suite.
     - term: 软件下载
       links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
+        - title: LocalSend
+          url: https://localsend.org/
+          logo: localsend.png
+          description: Share files to nearby devices.
+        - title: Quicker
+          url: https://getquicker.net/
+          logo: quicker.png
+          description: 电脑快捷指令-您的指尖工具箱
+        - title: 向日葵远程控制
+          url: https://sunlogin.oray.com/
+          logo: 向日葵.png
+          description: 向日葵远程设备控制。
+        - title: ToDesk
+          url: https://www.todesk.com/
+          logo: ToDesk.png
+          description: ToDesk远程桌面软件
+        - title: 搜狗输入法
+          url: https://shurufa.sogou.com/
+          logo: 搜狗.png
+          description: 最好用的电脑输入法。
+        - title: 微信输入法
+          url: https://z.weixin.qq.com/
+          logo: 微信输入法.png
+          description: 跨设备同步剪切板。
     - term: 站长工具
       links:
         - title: 阿里云
