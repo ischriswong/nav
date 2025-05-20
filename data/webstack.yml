@@ -117,30 +117,30 @@
           description: 美国政府资助的国际广播机构。
     - term: 电子邮箱
       links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Galaxy Project
-          logo: galaxy_project.png
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
+        - title: Gmail
+          logo: gmail.png
+          url: https://gmail.com/
+          description: 免费、私密且安全的电子邮件。
+        - title: QQ 邮箱
+          logo: qq邮箱.png
+          url: http://mail.qq.com/
+          description: 腾讯 QQ 邮箱。
+        - title: Outlook邮箱
+          logo: outlook.jpg
+          url: https://outlook.live.com/
+          description: 微软提供的电子邮件服务。
+        - title: 网易邮箱
+          logo: 163mail.png
+          url: https://email.163.com/
+          description: 网易免费邮箱-你的专业电子邮局。
+        - title: iCloud邮箱
+          logo: icloudmail.png
+          url: https://www.icloud.com/mail
+          description: 由 Apple 提供的私密、安全且个性化的电子邮件服务。
+        - title: Mail.td
+          logo: mailtd.png
+          url: https://mail.td/
+          description: 免费一次性电子邮件。
     - term: 云端硬盘
       links:
         - title: 百度网盘
