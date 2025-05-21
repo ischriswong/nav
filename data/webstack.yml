@@ -550,6 +550,30 @@
           url: https://z.weixin.qq.com/
           logo: 微信输入法.png
           description: 跨设备同步剪切板。
+        - title: Anvi Folder Locker
+          url: https://anvi-folder-locker.en.uptodown.com/windows/download
+          logo: anvi-folder-locker.jpg
+          description: 文件夹加密软件。
+        - title: TaskBarHider
+          url: https://zyhh.me/delphi/taskbarhider.html
+          logo: taskbar-hide.jpg
+          description: Win7、Win10 显示/隐藏任务栏小工具
+        - title: PotPlayer
+          url: https://potplayer.info/
+          logo: potplayer.png
+          description: The Best Media Player for Windows.
+        - title: Everything
+          url: https://www.voidtools.com/
+          logo: everything.png
+          description: 基于名称快速定位文件和文件夹。
+        - title: Honeyview
+          url: https://www.bandisoft.com/honeyview/
+          logo: honeyview.png
+          description: 一款兼快速与强大于一体的免费图像查看器。
+        - title: RustDesk
+          url: https://rustdesk.com/
+          logo: rustdesk.png
+          description: 快速开源远程访问和支持软件。
     - term: 站长之家
       links:
         - title: 阿里云
@@ -612,7 +636,7 @@
           url: http://www.vanschneider.com/colors
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 实用工具
+    - term: 在线工具
       links:
         - title: tinypng
           url: https://tinypng.com/
