@@ -159,10 +159,14 @@
           logo: 天翼云盘.jpg
           url: https://cloud.189.cn/
           description: 家庭云|网盘|文件备份|资源分享。
+        - title: 移动云盘
+          logo: 中国移动云盘.png
+          url: https://yun.139.com/
+          description: 自动双向同步云盘。
         - title: 坚果云
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
+          description: WebDAV。
         - title: 蓝奏云
           logo: 蓝奏云盘.png
           usrl: https://www.lanzou.com/
@@ -526,7 +530,7 @@
           url: https://z.weixin.qq.com/
           logo: 微信输入法.png
           description: 跨设备同步剪切板。
-    - term: 站长工具
+    - term: 站长之家
       links:
         - title: 阿里云
           logo: 阿里云.jpg
