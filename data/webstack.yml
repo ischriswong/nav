@@ -200,20 +200,20 @@
           description: https://ddys.pro/。
     - term: 在线音乐
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 小红书
-          logo: xiaohongshu.png
-          url: https://www.xiaohongshu.com/
-          description: 标记我的生活。
+        - title: QQ 音乐
+          logo: QQ音乐.jpg
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+        - title: 网易云音乐
+          logo: 网易云音乐.jpg
+          url: https://music.163.com/
+          description: 163 网易云音乐。
     - term: 书籍下载
       links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
+        - title: Z-Library
+          logo: Z-Library.png
+          url: https://zlib.su/
+          description: 全球最大的数字图书馆。
         - title: 优酷
           logo: 优酷.png
           url: http://www.youku.com/
@@ -226,14 +226,6 @@
           logo: 哔哩哔哩.png
           url: https://www.bilibili.com/
           description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
     - term: 日常摸鱼
       links:
         - title: 百度贴吧
