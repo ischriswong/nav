@@ -256,14 +256,14 @@
           description: Bilibili 视频弹幕网站。
     - term: 趣味休闲
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 小红书
-          logo: xiaohongshu.png
-          url: https://www.xiaohongshu.com/
-          description: 标记我的生活。
+        - title: TV garden
+          logo: tvgarden.png
+          url: https://tv.garden/
+          description: Watch Global & Local Live TV Online for Free.
+        - title: Radiocast
+          logo: radiocast.png
+          url: https://radiocast.co/
+          description: Explore world radio stations.
     - term: 日常摸鱼
       links:
         - title: 百度贴吧
