@@ -216,6 +216,14 @@
           logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
+        - title: Alger Music Player
+          logo: 网抑云.png
+          url: http://mc.alger.fun/
+          description: 在线音乐播放器。
+        - title: SPlayer2.0
+          logo: splayer.png
+          url: https://player.focalors.ltd/
+          description: 无损音乐下载。
     - term: 书籍下载
       links:
         - title: Z-Library
