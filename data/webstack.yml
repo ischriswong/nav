@@ -55,18 +55,18 @@
   list:
     - term: 生活方式
       links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
+        - title: 我爱白嫖
+          logo: 我爱白嫖.png
+          url: https://52bp.icu/
+          description: 一直白嫖一直爽。
+        - title: GoFans
+          logo: gofans.png
+          url: https://gofans.cn/
+          description: 每日推荐优质的macOS,iOS限免资讯。
+        - title: 少数派
+          logo: 少数派.png
+          url: https://sspai.com/
+          description: 少数派- 高效工作，品质生活
         - title: Galaxy Project
           logo: galaxy_project.png
           url: https://galaxyproject.org/
@@ -710,22 +710,22 @@
           description: IT 互联网开源编程书籍免费阅读与下载。
     - term: 博客论坛
       links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
+        - title: 果核剥壳
+          url: https://www.ghxi.com/
+          logo: 果核剥壳.png
+          description: 果核剥壳-互联网的净土。
+        - title: 小众软件
+          url: https://www.appinn.com/
+          logo: 小众软件.png
+          description: 分享免费、小巧、实用、有趣、绿色的软件。
+        - title: 吾爱破解
+          url: https://www.52pojie.cn/
+          logo: 吾爱破解.png
+          description: 专注于软件破解技术交流的中文技术论坛。
+        - title: 奔跑中的奶酪
+          url: https://www.runningcheese.com/
+          logo: 奔跑中的奶酪.png
+          description: 奔跑中的奶酪-有智，有趣，有爱。
         - title: 酷壳
           url: https://www.coolshell.cn/
           logo: ''
