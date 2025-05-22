@@ -604,26 +604,26 @@
           logo: 阿里云.jpg
           url: https://www.aliyun.com/
           description: 上云就上阿里云。
-        - title: uigradients
-          url: https://uigradients.com
-          logo: uigradients.png
-          description: Beautiful colored gradients.
-        - title: gradients
-          url: http://gradients.io/
-          logo: gradients.png
-          description: Curated gradients for designers and developers.
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: grabient.png
-          description: 2017 Grabient by unfold.
+        - title: Cloudflare
+          url: https://www.cloudflare.com/
+          logo: cloudflare.png
+          description: Connect, protect, and build everywhere.
+        - title: Github
+          url: https://github.com/
+          logo: github.png
+          description: Github 开源社区。
+        - title: Vercel
+          url: https://vercel.com/
+          logo: Vercel.png
+          description: 静态网站部署托管平台。
+        - title:  Resend
+          url: https://resend.com/
+          logo: resend.png
+          description: 免费域名邮件发送平台。
+        - title: Backblaze
+          url: https://www.backblaze.com/
+          logo: backblaze.png
+          description: 免费对象存储。
         - title: thedayscolor
           url: http://www.thedayscolor.com/
           logo: thedayscolor.png
