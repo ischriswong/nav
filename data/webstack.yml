@@ -3,14 +3,14 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
+    - title: 飞书
+      logo: 飞书.png
+      url: https://www.feishu.cn/
+      description: AI时代先进生产力平台。
+    - title: Gmail
+      logo: gmail.png
+      url: https://gmail.com/
+      description: 免费、私密且安全的电子邮件。
     - title: Folo
       logo: folo.ico
       url: https://app.follow.is/
