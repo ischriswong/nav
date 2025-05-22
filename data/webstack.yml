@@ -574,6 +574,26 @@
           url: https://rustdesk.com/
           logo: rustdesk.png
           description: 快速开源远程访问和支持软件。
+        - title: Bandizip
+          url: https://cn.bandisoft.com/bandizip/
+          logo: Bandizip.png
+          description: 强大的多功能压缩文件管理工具。
+        - title: 7-Zip
+          url: https://www.7-zip.org/
+          logo: 7z.png
+          description: 开源免费的解压缩软件
+        - title: IDM
+          url: https://www.internetdownloadmanager.com/
+          logo: idm.png
+          description: 网络多线程下载神器。
+        - title: Ditto
+          url: https://ditto-cp.sourceforge.io/
+          logo: ditto.png
+          description: 历史剪贴板。
+        - title: Sumatra PDF
+          url: https://www.sumatrapdfreader.org/free-pdf-reader
+          logo: favicon.ico
+          description: 最轻量的PDF阅读器。
     - term: 站长之家
       links:
         - title: 阿里云
