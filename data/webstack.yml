@@ -598,6 +598,10 @@
           url: https://www.sumatrapdfreader.org/free-pdf-reader
           logo: favicon.ico
           description: 最轻量的PDF阅读器。
+        - title: v2rayN
+          url: https://sw.wangying.me/v2rayN.zip
+          logo: v2rayN.png
+          description: Windows系统下的代理软件客户端。
     - term: 站长之家
       links:
         - title: 阿里云
