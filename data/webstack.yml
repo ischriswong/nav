@@ -264,6 +264,10 @@
           logo: radiocast.png
           url: https://radiocast.co/
           description: Explore world radio stations.
+        - title: SkylineWebcams
+          logo: skylinewebcams.png
+          url: https://www.skylinewebcams.com/
+          description: 全球高清实况摄像头。
     - term: 日常摸鱼
       links:
         - title: 百度贴吧
