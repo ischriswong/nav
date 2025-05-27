@@ -115,6 +115,14 @@
           logo: voa.jpg
           url: https://www.voachinese.com/
           description: 美国政府资助的国际广播机构。
+        - title: 联合早报
+          logo: 联合早报.png
+          url: https://www.zaobao.com/
+          description: 全球华文用户信任的媒体
+        - title: CNN
+          logo: cnn.png
+          url: https://www.cnn.com/
+          description: Breaking News, Latest News and Videos.
     - term: 电子邮箱
       links:
         - title: Gmail
