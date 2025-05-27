@@ -12,7 +12,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     author        = "wangying"
     description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
     upload        = "https://docs.google.com/forms/d/e/1FAIpQLSeaR0htKoULxyEB_cxx-Gwfpt6dXovI9Q76XNvcw0T_2JM-dw/viewform"      # 左侧导航栏的"网站提交"
-    about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
+    about         = "https://github.com/ischriswong/nav/blob/main/data/webstack.yml"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Demo"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "小颖的导航站"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
