@@ -167,6 +167,10 @@
           logo: iCloud.png
           url: https://www.icloud.com.cn/
           description: iCloud云上贵州。
+        - title: iCloud
+          logo: iCloud.png
+          url: https://www.icloud.com/
+          description: iCloud美区。
         - title: 天翼云盘
           logo: 天翼云盘.jpg
           url: https://cloud.189.cn/
@@ -175,6 +179,14 @@
           logo: 中国移动云盘.png
           url: https://yun.139.com/
           description: 自动双向同步云盘。
+        - title: 联通云盘
+          logo: 联通云盘.png
+          url: https://pan.wo.cn/
+          description: 开启美好时光|不限速。
+        - title: 115网盘
+          logo: 115网盘.png
+          url: https://115.com/
+          description: 老牌网盘服务。
         - title: 坚果云
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
@@ -183,10 +195,30 @@
           logo: 蓝奏云盘.png
           usrl: https://www.lanzou.com/
           description: https://www.lanzou.com/
+        - title: Google Drive
+          logo: google-drive.png
+          usrl: https://drive.google.com/
+          description: 谷歌旗下云端硬盘。
+        - title: OneDrive
+          logo: OneDrive.png
+          usrl: https://onedrive.live.com/
+          description: 微软旗下云端硬盘。
         - title: pCloud
           logo: pcloud.png
           usrl: https://www.pcloud.com/
           description: 欧洲终身云端硬盘。
+        - title: Mega
+          logo: mega.png
+          usrl: https://mega.io/
+          description: Protect your Online Privacy.
+        - title: 文叔叔
+          logo: wenshushu.png
+          usrl: https://www.wenshushu.cn/
+          description: 传文件，找文叔叔。
+        - title: Wormhole
+          logo: Wormhole.png
+          usrl: https://wormhole.app/
+          description: 国外临时文件传输服务。
         
 
 - taxonomy: 休闲娱乐
