@@ -189,35 +189,35 @@
           description: 老牌网盘服务。
         - title: 坚果云
           logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
+          url: https://www.jianguoyun.com/
           description: WebDAV。
         - title: 蓝奏云
           logo: 蓝奏云盘.png
-          usrl: https://www.lanzou.com/
+          url: https://www.lanzou.com/
           description: https://www.lanzou.com/
         - title: Google Drive
           logo: google-drive.png
-          usrl: https://drive.google.com/
+          url: https://drive.google.com/
           description: 谷歌旗下云端硬盘。
         - title: OneDrive
           logo: OneDrive.png
-          usrl: https://onedrive.live.com/
+          url: https://onedrive.live.com/
           description: 微软旗下云端硬盘。
         - title: pCloud
           logo: pcloud.png
-          usrl: https://www.pcloud.com/
+          url: https://www.pcloud.com/
           description: 欧洲终身云端硬盘。
         - title: Mega
           logo: mega.png
-          usrl: https://mega.io/
+          url: https://mega.io/
           description: Protect your Online Privacy.
         - title: 文叔叔
           logo: wenshushu.png
-          usrl: https://www.wenshushu.cn/
+          url: https://www.wenshushu.cn/
           description: 传文件，找文叔叔。
         - title: Wormhole
           logo: Wormhole.png
-          usrl: https://wormhole.app/
+          url: https://wormhole.app/
           description: 国外临时文件传输服务。
         
 
