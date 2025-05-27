@@ -55,10 +55,10 @@
   list:
     - term: 生活方式
       links:
-        - title: 我爱白嫖
-          logo: 我爱白嫖.png
-          url: https://52bp.icu/
-          description: 一直白嫖一直爽。
+        - title: Notion
+          logo: notion.png
+          url: https://www.notion.com/
+          description: Your connected workspace for wiki, docs & projects.
         - title: GoFans
           logo: gofans.png
           url: https://gofans.cn/
