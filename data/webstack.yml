@@ -797,18 +797,18 @@
           url: https://chromewebstore.google.com/detail/shazam%EF%BC%9A%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9B%B4%E6%8E%A5%E8%AF%86%E5%88%AB%E6%AD%8C%E6%9B%B2/mmioliijnhnoblpgimnlajmefafdfilb?hl=zh-CN&utm_source=ext_sidebar
           logo: Shazam.jpg
           description: 在浏览器中直接识别歌曲。
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
+        - title: Listen 1
+          url: https://microsoftedge.microsoft.com/addons/detail/listen-1/bcneiehcbgahghfmgigmblcgkhihehad
+          logo: listen1.png
+          description: 多平台音乐播放器和搜索工具。
+        - title: Open-as-Popup
+          url: https://chromewebstore.google.com/detail/open-as-popup/ncppfjladdkdaemaghochfikpmghbcpc?hl=zh-CN&utm_source=ext_sidebar
+          logo: Open-as-Popup.png
+          description: 隐藏掉浏览器上方标签页。
+        - title: Easy Image Control
+          url: https://chromewebstore.google.com/detail/easy-image-control/clallboofkppmmmhdbjhamfhlhpchbij?hl=zh-CN&utm_source=ext_sidebar
+          logo: imageControl.png
+          description: 控制网页图片音频等显示。
 
 
 - taxonomy: 综合专栏
