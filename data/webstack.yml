@@ -749,6 +749,66 @@
           url: https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=zh-CN&utm_source=ext_sidebar
           logo: darkreader.png
           description: 适用于所有网站的暗色主题。
+        - title: Global Speed
+          url: https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-CN&utm_source=ext_sidebar
+          logo: GlobalSpeed.png
+          description: 视频速度控制。
+        - title: Browser Lock
+          url: https://chromewebstore.google.com/detail/browser-lock-lock-your-br/nldijlfmoepgjkjhmdiiainkjgmpdnmj?hl=zh-CN&utm_source=ext_sidebar
+          logo: BrowserLock.png
+          description: Lock Your Browser.
+        - title: SuperCopy
+          url: https://chromewebstore.google.com/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/onepmapfbjohnegdmfhndpefjkppbjkm?hl=zh-CN&utm_source=ext_sidebar
+          logo: SuperCopy.png
+          description: 破解禁止复制的网页。
+        - title: OneTab
+          url: https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN&utm_source=ext_sidebar
+          logo: OneTab.png
+          description: 将所有标签页转换成一个列表。
+        - title: 沉浸式翻译
+          url: https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN&utm_source=ext_sidebar
+          logo: 沉浸式翻译.png
+          description: （原文/译文）双语对照网页翻译插件。
+        - title: 沙拉查词
+          url: https://chromewebstore.google.com/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=zh-CN&utm_source=ext_sidebar
+          logo: 沙拉查词.png
+          description: 聚合词典划词翻译。
+        - title: 简悦
+          url: https://chromewebstore.google.com/detail/%E7%AE%80%E6%82%A6-simpread/ijllcpnolfcooahcekpamkbidhejabll?hl=zh-CN&utm_source=ext_sidebar
+          logo: 简悦.png
+          description: 沉浸式阅读的 Chrome 扩展。
+        - title: 篡改猴
+          url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN&utm_source=ext_sidebar
+          logo: 篡改猴.png
+          description: 使用用户脚本自由地改变网络。
+        - title: 类似的网站
+          url: https://chromewebstore.google.com/detail/%E7%B1%BB%E4%BC%BC%E7%9A%84%E7%BD%91%E7%AB%99-%E5%8F%91%E7%8E%B0%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/necpbmbhhdiplmfhmjicabdeighkndkn?hl=zh-CN&utm_source=ext_sidebar
+          logo: 类似的网站.png
+          description: 发现相关网站。
+        - title: iTab新标签页
+          url: https://chromewebstore.google.com/detail/itab%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/mhloojimgilafopcmlcikiidgbbnelip?hl=zh-CN&utm_source=ext_sidebar
+          logo: iTab.png
+          description: 自定义您的浏览器的标签页。
+        - title: Sider
+          url: https://chromewebstore.google.com/detail/sider-chatgpt-%E4%BE%A7%E8%BE%B9%E6%A0%8F-+-gpt-4/difoiogjjojoaoomphldepapgpbgkhkb?hl=zh-CN&utm_source=ext_sidebar
+          logo: Sider.png
+          description:  AI聊天聚合插件。
+        - title: Shazam
+          url: https://chromewebstore.google.com/detail/shazam%EF%BC%9A%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9B%B4%E6%8E%A5%E8%AF%86%E5%88%AB%E6%AD%8C%E6%9B%B2/mmioliijnhnoblpgimnlajmefafdfilb?hl=zh-CN&utm_source=ext_sidebar
+          logo: Shazam.jpg
+          description: 在浏览器中直接识别歌曲。
+        - title: Da Font
+          url: https://www.dafont.com/
+          logo: dafont.png
+          description: Archive of freely downloadable fonts.
+        - title: OnlineWebFonts
+          url: https://www.onlinewebfonts.com/
+          logo: OnlineWebFonts.png
+          description: WEB Free Fonts for Windows and Mac / Font free Download.
+        - title: Abstract Fonts
+          url: http://www.abstractfonts.com/
+          logo: abstractfonts.png
+          description: Abstract Fonts (13,866 free fonts).      
 
 
 - taxonomy: 综合专栏
