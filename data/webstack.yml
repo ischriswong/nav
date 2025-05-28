@@ -694,10 +694,10 @@
           description: free domain names since 1996.
     - term: 在线工具
       links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
+        - title: Convertio
+          url: https://convertio.co/
+          logo: Convertio.png
+          description: 文件转换器。
         - title: goqr
           url: http://goqr.me/
           logo: goqr.png
@@ -725,30 +725,30 @@
         
     - term: 谷歌插件
       links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
+        - title: 插件小屋
+          url: https://www.chajianxw.com
+          logo: chajianxiaowu.png
+          description: 专业的Chrome插件下载网站。
+        - title: Greasy Fork
+          url: https://greasyfork.org/
+          logo: GreasyFork.png
+          description: 一个专为用户脚本打造的网站。
+        - title: adBlock
+          url: https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-CN&utm_source=ext_sidebar
+          logo: adBlock.png
+          description: 拦截整个网络的广告。
+        - title: AdGuard
+          url: https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=zh-CN&utm_source=ext_sidebar
+          logo: AdGuard.png
+          description: 广告拦截器。
+        - title: AIX智能下载器
+          url: https://chromewebstore.google.com/detail/aix%E6%99%BA%E8%83%BD%E4%B8%8B%E8%BD%BD%E5%99%A8%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E9%9F%B3%E4%B9%90%E6%96%87%E6%A1%A3/ibdfeimkglcmdejppabkaidpippniiob?hl=zh-CN&utm_source=ext_sidebar
+          logo: AIX.png
+          description: AIX智能下载器(图片/视频/音乐/文档)
+        - title: Dark Reader
+          url: https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=zh-CN&utm_source=ext_sidebar
+          logo: darkreader.png
+          description: 适用于所有网站的暗色主题。
 
 
 - taxonomy: 综合专栏
