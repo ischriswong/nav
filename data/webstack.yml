@@ -814,10 +814,10 @@
           description: 电影网站导航。
     - term: 在线教育
       links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
+        - title: TED
+          url: https://www.ted.com/
+          logo: ted.png
+          description: Ideas change everything.
         - title: doyoudo
           url: http://doyoudo.com/
           logo: doyoudo.png
