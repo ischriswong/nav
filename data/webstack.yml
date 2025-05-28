@@ -638,6 +638,18 @@
           url: https://www.sumatrapdfreader.org/free-pdf-reader
           logo: favicon.ico
           description: 最轻量的PDF阅读器。
+        - title: PixPin
+          url: https://pixpin.cn/
+          logo: pixpin.png
+          description: 强大且免费的截图贴图工具。
+        - title: OBS
+          url: https://obsproject.com/
+          logo: OBS.png
+          description: 最强录屏直播软件。
+        - title: Geek
+          url: https://geekuninstaller.com/
+          logo: Geek.png
+          description: 最轻量的PDF阅读器。
         - title: V2rayN
           url: https://sw.wangying.me/v2rayN.zip
           logo: v2rayN.png
@@ -798,10 +810,10 @@
           url: https://www.runningcheese.com/
           logo: 奔跑中的奶酪.png
           description: 奔跑中的奶酪-有智，有趣，有爱。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
+        - title: 爱范儿
+          url: https://www.ifanr.com/
+          logo: aifaner.png
+          description: 关注明日产品的数字潮牌。
     - term: 导航网站
       links:
         - title: 阿虚同学的储物间
