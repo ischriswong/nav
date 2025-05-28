@@ -599,7 +599,7 @@
           logo: anvi-folder-locker.jpg
           description: 文件夹加密软件。
         - title: TaskBarHider
-          url: https://zyhh.me/delphi/taskbarhider.html
+          url: https://sw.wangying.me/TaskBarHider.zip
           logo: taskbar-hide.jpg
           description: Win7、Win10 显示/隐藏任务栏小工具
         - title: PotPlayer
@@ -619,7 +619,7 @@
           logo: rustdesk.png
           description: 快速开源远程访问和支持软件。
         - title: Bandizip
-          url: https://cn.bandisoft.com/bandizip/
+          url: https://sw.wangying.me/BandiZip.exe
           logo: Bandizip.png
           description: 强大的多功能压缩文件管理工具。
         - title: 7-Zip
@@ -627,7 +627,7 @@
           logo: 7z.png
           description: 开源免费的解压缩软件
         - title: IDM
-          url: https://www.internetdownloadmanager.com/
+          url: https://sw.wangying.me/IDM.rar
           logo: idm.png
           description: 网络多线程下载神器。
         - title: Ditto
