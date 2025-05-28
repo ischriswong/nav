@@ -276,6 +276,10 @@
           logo: splayer.png
           url: https://player.focalors.ltd/
           description: 无损音乐下载。
+        - title: 洛雪音乐
+          logo: 洛雪音乐.svg
+          url: https://lxmusic.toside.cn/
+          description: 一个免费&开源的音乐查找工具。
     - term: 书籍下载
       links:
         - title: Z-Library
