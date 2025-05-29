@@ -11,18 +11,18 @@
       logo: gmail.png
       url: https://gmail.com/
       description: 免费、私密且安全的电子邮件。
-    - title: Folo
-      logo: folo.ico
-      url: https://app.follow.is/
-      description: Follow everything in one place。
+    - title: iCloud
+      logo: iCloud.png
+      url: https://www.icloud.com.cn/
+      description: iCloud 照片、文件、备忘录、邮件和更多内容的网页版之家。。
     - title: 文叔叔
       logo: wenshushu.png
       url: https://www.wenshushu.cn/
       description: 传文件，找文叔叔。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/ischriswong/nav
-      description: 在线编辑导航网站。
+    - title: X
+      logo: x.png
+      url: https://x.com/
+      description: 原推特。
     - title: Apple Music
       logo: applemusic.png
       url: https://music.apple.com/
@@ -171,10 +171,10 @@
           logo: 阿里云盘.png
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
-        - title: iCloud
-          logo: iCloud.png
-          url: https://www.icloud.com.cn/
-          description: iCloud云上贵州。
+        - title: 夸克网盘
+          logo: 夸克网盘.png
+          url: https://pan.quark.cn/
+          description: https://pan.quark.cn/
         - title: iCloud
           logo: iCloud.png
           url: https://www.icloud.com/
