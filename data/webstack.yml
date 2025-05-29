@@ -59,22 +59,22 @@
           logo: notion.png
           url: https://www.notion.com/
           description: Your connected workspace for wiki, docs & projects.
-        - title: GoFans
-          logo: gofans.png
-          url: https://gofans.cn/
-          description: 每日推荐优质的macOS,iOS限免资讯。
-        - title: 少数派
-          logo: 少数派.png
-          url: https://sspai.com/
-          description: 少数派- 高效工作，品质生活
-        - title: Galaxy Project
-          logo: galaxy_project.png
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: Microsoft 365
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
+        - title: Folo
+          logo: folo.ico
+          url: https://app.follow.is/
+          description: Follow everything in one place.
+        - title: Instapaper
+          logo: instapaper.png
+          url: https://www.instapaper.com/
+          description: 用于管理互联网文章的应用程序及服务。
+        - title: OneNote
+          logo: OneNote.png
+          url: https://www.onenote.com/
+          description: Microsoft推出的一款数字笔记本软件。
+        - title: Billfish
+          logo: Billfish.png
+          url: https://www.billfish.cn/
+          description: 素材管理工具。
         - title: 谷歌翻译
           logo: 谷歌翻译.jpg
           url: https://translate.google.cn/
@@ -123,6 +123,14 @@
           logo: cnn.png
           url: https://www.cnn.com/
           description: Breaking News, Latest News and Videos.
+        - title: Bloomberg
+          logo: Bloomberg.png
+          url: https://www.bloomberg.com/
+          description: Business News, Stock Markets, Finance, Breaking ...
+        - title: 华尔街日报中文网
+          logo: wsj.png
+          url: https://cn.wsj.com/
+          description: 美国具有影响力的报刊。
     - term: 电子邮箱
       links:
         - title: Gmail
@@ -902,6 +910,10 @@
           url: https://www.runningcheese.com/
           logo: 奔跑中的奶酪.png
           description: 奔跑中的奶酪-有智，有趣，有爱。
+        - title: 少数派
+          logo: 少数派.png
+          url: https://sspai.com/
+          description: 少数派- 高效工作，品质生活
         - title: 爱范儿
           url: https://www.ifanr.com/
           logo: aifaner.png
