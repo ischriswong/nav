@@ -75,10 +75,10 @@
           logo: Billfish.png
           url: https://www.billfish.cn/
           description: 素材管理工具。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
+        - title: Readwise
+          logo: readwise.svg
+          url: https://readwise.io/
+          description: Get the most out of what you read.
     - term: 社交媒体
       links:
         - title: 百度贴吧
