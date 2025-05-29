@@ -83,12 +83,36 @@
       links:
         - title: 百度贴吧
           logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
+          url: https://tieba.baidu.com/index.html
           description: 百度贴吧。
         - title: 小红书
           logo: xiaohongshu.png
           url: https://www.xiaohongshu.com/
           description: 标记我的生活。
+        - title: 豆瓣
+          logo: 豆瓣网.png
+          url: https://www.douban.com/
+          description: 集电影、书籍、音乐评分与评论，以及兴趣社交为一体的文化娱乐平台。
+        - title: 微博
+          logo: 微博.png
+          url: https://weibo.com/
+          description: 随时随地，发现新鲜事。
+        - title: 知乎
+          logo: 知乎.png
+          url: https://www.zhihu.com/
+          description: 国内问答社区。
+        - title: Quora
+          logo: Quora.png
+          url: https://www.quora.com/
+          description: 国外在线问答网站。
+        - title: Reddit
+          logo: reddit.png
+          url: https://www.reddit.com/
+          description: 国外贴吧。
+        - title: X
+          logo: x.png
+          url: https://x.com/
+          description: 原推特。
     - term: 资讯新闻
       links:
         - title: BBC中文网
@@ -250,6 +274,14 @@
           logo: 哔哩哔哩.png
           url: https://www.bilibili.com/
           description: Bilibili 视频弹幕网站。
+        - title: Youtube
+          logo: youtube.png
+          url: https://www.youtube.com/
+          description: 全球最大的影片搜尋和分享平台。
+        - title: 抖音
+          logo: 抖音.png
+          url: https://www.douyin.com/
+          description: 记录美好生活。
         - title: 海盗湾
           logo: 海盗湾.jpg
           url: https://thepiratebay.org/
