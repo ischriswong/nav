@@ -90,7 +90,7 @@
           url: https://www.xiaohongshu.com/
           description: 标记我的生活。
         - title: 豆瓣
-          logo: 豆瓣网.png
+          logo: douban.png
           url: https://www.douban.com/
           description: 集电影、书籍、音乐评分与评论，以及兴趣社交为一体的文化娱乐平台。
         - title: 微博
