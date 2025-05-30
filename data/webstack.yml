@@ -702,6 +702,10 @@
           url: https://geekuninstaller.com/
           logo: Geek.png
           description: 免费电脑清理卸载软件。
+        - title: SpaceSniffer
+          url: https://www.uderzo.it/main_products/space_sniffer/
+          logo: 拼图.png
+          description: 磁盘空间分析工具。
         - title: V2rayN
           url: https://sw.wangying.me/v2rayN.zip
           logo: v2rayN.png
