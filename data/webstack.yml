@@ -378,14 +378,22 @@
           description: 全球高清实况摄像头。
     - term: 日常摸鱼
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 小红书
-          logo: xiaohongshu.png
-          url: https://www.xiaohongshu.com/
-          description: 标记我的生活。
+        - title: Reader
+          logo: 英语.png
+          url: https://cnxiaobai.com/articles/2022/03/29/1648541960488.html
+          description: 开源无边界小说阅读器。
+        - title: ToastFish
+          logo: ToastFish.ico
+          url: https://lab.magiconch.com/toast-fish/
+          description: 一个利用Windows通知栏背单词的软件。
+        - title: 假装 Windows 升级界面
+          logo: windows.png
+          url: https://www.hellokit.com.cn/fakeupdate
+          description: 假装 Windows 升级界面。
+        - title: 网易云阅读
+          logo: yundu.png
+          url: https://yuedu.163.com/
+          description: 模拟Word界面读书。
    
       
 - taxonomy: 素材资源
