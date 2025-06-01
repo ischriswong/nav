@@ -308,6 +308,14 @@
           description: 全球知名的BT种子分享网站。
     - term: 播客音乐
       links:
+        - title: Podcasts
+          logo: applepodcasts.png
+          url: https://podcasts.apple.com/
+          description: Apple旗下播客平台。
+        - title: 喜马拉雅
+          logo: 喜马拉雅.png
+          url: https://www.ximalaya.com/
+          description: 在线音频平台。
         - title: QQ 音乐
           logo: QQ音乐.jpg
           url: https://y.qq.com/
