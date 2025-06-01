@@ -282,10 +282,10 @@
           logo: 抖音.png
           url: https://www.douyin.com/
           description: 记录美好生活。
-        - title: 海盗湾
-          logo: 海盗湾.jpg
-          url: https://thepiratebay.org/
-          description: 全球知名的BT种子分享网站。
+        - title: 奈飞影院
+          logo: naifei.png
+          url: https://www.naifeiyy.com/
+          description: https://www.naifeiyy.com/
         - title: 厂长资源
           logo: czzy.png
           url: https://www.czzy77.com/
@@ -294,6 +294,18 @@
           logo: ddys.png
           url: https://ddys.pro/
           description: https://ddys.pro/。
+        - title: RARBG
+          logo: RARBG.png
+          url: https://rargb.to/
+          description: 规模较大的种子目录网站。
+        - title: YTS
+          logo: yts.png
+          url: https://yts.mx/
+          description: 豆一个专注于电影的种子下载网站。
+        - title: 海盗湾
+          logo: 海盗湾.jpg
+          url: https://thepiratebay.org/
+          description: 全球知名的BT种子分享网站。
     - term: 播客音乐
       links:
         - title: QQ 音乐
