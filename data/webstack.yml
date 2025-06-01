@@ -350,18 +350,18 @@
           logo: Z-Library.png
           url: https://zlib.su/
           description: 全球最大的数字图书馆。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
+        - title: 安娜的档案
+          logo: 安娜的档案.png
+          url: https://zh.annas-archive.org/
+          description: 世界上最大的开源、开放数据图书馆，提供全球各种电子书、文献等内容供用户下载。
+        - title: 鸠摩搜索
+          logo: 鸠摩搜索.jpg
+          url: https://www.jiumodiary.com/
+          description: 电子书、文档搜索引擎。
+        - title: Library Genesis
+          logo: LibraryGenesis.png
+          url: https://libgen.li/
+          description: 不逊于 Z-Library 的优质电子书库。
     - term: 趣味休闲
       links:
         - title: TV garden
