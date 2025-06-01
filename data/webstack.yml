@@ -155,6 +155,14 @@
           logo: wsj.png
           url: https://cn.wsj.com/
           description: 美国具有影响力的报刊。
+        - title: 36氪
+          logo: 36氪.png
+          url: https://36kr.com/
+          description: 让一部分人先看到未来。
+        - title: 虎嗅网
+          logo: 虎嗅.png
+          url: https://www.huxiu.com/
+          description: 一个专注于创新创业的观点剖析与交流的新媒体平台。
     - term: 电子邮箱
       links:
         - title: Gmail
@@ -982,6 +990,22 @@
           url: https://www.ifanr.com/
           logo: aifaner.png
           description: 关注明日产品的数字潮牌。
+        - title: V2EX
+          url: https://www.v2ex.com/
+          logo: V2EX.png
+          description: 创意工作者的社区。
+        - title: 全球主机交流论坛
+          logo: 全球主机交流.png
+          url: https://hostloc.com/
+          description: 全球主机交流论坛。
+        - title: NodeSeek
+          url: https://www.nodeseek.com/
+          logo: nodeseek.png
+          description: 为主机爱好者打造高品质社区。
+        - title: LINUX DO
+          url: https://linux.do/
+          logo: linux-do.png
+          description: 新的理想型社区。
     - term: 导航网站
       links:
         - title: 阿虚同学的储物间
