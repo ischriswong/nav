@@ -624,34 +624,46 @@
   list: 
     - term: AI工具
       links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
+        - title: ChatGPT
+          url: https://www.chatgpt.com/
+          logo: chatgpt.png
+          description: chat.openai.com
+        - title: DeepSeek
+          url: https://chat.deepseek.com/
+          logo: deepseek.png
+          description: 探索未至之境。
+        - title: 豆包
+          url: https://www.doubao.com/
+          logo: 豆包.png
+          description: 字节旗下多功能Ai助手。
+        - title: Claude
+          url: https://claude.ai/
+          logo: claude.png
+          description: Anthropic 开发的先进人工智能平台。
+        - title: Gemini
+          url: https://gemini.google.com/
+          logo: gemini-ai.png
+          description: 谷歌旗下AI语言大模型。
+        - title: Midjourney
+          url: https://www.midjourney.com/
+          logo: Midjourney.png
+          description: 一款强大的 AI 绘画工具。
+        - title: Stable Diffusion
+          url: https://stability.ai/
+          logo: Stable_Diffusion.png
+          description: 免费开源的AI绘画工具
+        - title: Cursor
+          url: https://www.cursor.com/
+          logo: Cursor.png
+          description: AI编程。
+        - title: Runway
+          url: https://runwayml.com/
+          logo: Runwayml.png
+          description: AI视频生成大模型。
+        - title: Suno
+          url: https://suno.com/
+          logo: suno.png
+          description: AI Music.
     - term: 软件下载
       links:
         - title: LocalSend
