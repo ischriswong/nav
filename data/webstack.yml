@@ -115,6 +115,10 @@
           description: 原推特。
     - term: 资讯新闻
       links:
+        - title: Google News
+          logo: googlenews.png
+          url: https://news.google.com/
+          description: 一款个性化新闻聚合器。
         - title: BBC中文网
           logo: bbcchinese.png
           url: https://www.bbc.com/zhongwen/simp/
