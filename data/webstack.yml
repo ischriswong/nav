@@ -199,6 +199,10 @@
           description: 免费一次性电子邮件。
     - term: 云端硬盘
       links:
+        - title: Alist
+          logo: alist.png
+          url: https://nas.wangying.me/
+          description: 一款支持多种存储的文件列表程序。
         - title: 百度网盘
           logo: 百度网盘.jpg
           url: http://pan.baidu.com/
