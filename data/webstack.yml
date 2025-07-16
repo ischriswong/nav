@@ -79,6 +79,10 @@
           logo: readwise.svg
           url: https://readwise.io/
           description: Get the most out of what you read.
+        - title: SubsTracker
+          logo: list.png
+          url: https://list.wangying.me/
+          description: 订阅管理与提醒系统。
     - term: 社交媒体
       links:
         - title: 百度贴吧
