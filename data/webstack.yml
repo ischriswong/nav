@@ -690,6 +690,10 @@
           url: https://getquicker.net/
           logo: quicker.png
           description: 电脑快捷指令-您的指尖工具箱
+        - title: uTools
+          url: https://www.u-tools.cn/
+          logo: uTools.png
+          description: 电脑快捷指令-Mac端
         - title: 向日葵远程控制
           url: https://sunlogin.oray.com/
           logo: 向日葵.png
@@ -992,10 +996,10 @@
   list: 
     - term: 资源搜索
       links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
+        - title: 软仓
+          url: https://www.ruancang.net/
+          logo: 软仓.png
+          description: Windows端的专业软件导航网站。
         - title: 书栈网
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
