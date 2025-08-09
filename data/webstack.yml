@@ -278,7 +278,7 @@
   list:
     - term: 在线影视
       links:
-        - title: LibreTV
+        - title: MoonTV
           logo: 电影.png
           url: https://tv.wangying.me/
           description: 我的电影院。
