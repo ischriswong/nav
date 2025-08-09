@@ -774,14 +774,6 @@
           url: https://www.uderzo.it/main_products/space_sniffer/
           logo: 拼图.png
           description: 磁盘空间分析工具。
-        - title: V2rayN
-          url: https://sw.wangying.me/v2rayN.zip
-          logo: v2rayN.png
-          description: Windows系统下的代理软件客户端。
-        - title: Clash
-          url: https://sw.wangying.me/Clash.exe
-          logo: clash.png
-          description: Windows系统下的代理软件客户端。
     - term: 站长之家
       links:
         - title: 阿里云
