@@ -816,6 +816,10 @@
           url: https://nic.eu.org/
           logo: euorg.png
           description: free domain names since 1996.
+        - title: Upstash
+          url: https://upstash.com/
+          logo: upstash-icon-white-bg.png
+          description: 提供无服务器数据服务的平台。
         - title: Telegraph图床
           url: https://imgbed.wangying.me/
           logo: imgbed.png
