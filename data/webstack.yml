@@ -445,12 +445,12 @@
           logo: pcloud.png
           url: https://www.pcloud.com/
           description: 欧洲终身云端硬盘。
-    - term: 图标素材
+    - term: 图片素材
       links:
-        - title: Iconfinder
-          logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
+        - title: 免扣图片网
+          logo: 免抠图片网.png
+          url: https://www.miankoutupian.com/
+          description: 免费的免抠图片素材网站。
         - title: iconfont
           logo: iconfont.png
           url: http://www.iconfont.cn/
@@ -499,25 +499,25 @@
           logo: simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack.
-    - term: 音频素材
+    - term: 视频素材
       links:
-        - title: Iconsfeed
-          logo: iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery.
-        - title: iOS Icon Gallery
-          logo: iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store.
-        - title: World Vector Logo
-          logo: worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download.
+        - title: Pixabay
+          logo: pixabay.png
+          url: https://pixabay.com/
+          description: 图片素材、视频素材、插画、音乐音效。
+        - title: Pexels
+          logo: pexels.png
+          url: https://www.pexels.com/
+          description: 免费的视频、图片素材网。
+        - title: Freepik
+          logo: freepik.png
+          url: https://www.freepik.com/
+          description: 综合素材网站。
         - title: Instant Logo Search
           logo: InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly.
-    - term: 字体资源
+    - term: 动态资源
       links:
         - title: Google Font
           url: https://fonts.google.com/
@@ -826,10 +826,10 @@
           url: https://convertio.co/
           logo: Convertio.png
           description: 文件转换器。
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+        - title: VideoFK
+          url: https://www.videofk.com/
+          logo: VideoFK.png
+          description: 视频在线解析下载。
         - title: ezgif
           url: https://ezgif.com
           logo: ezgif.png
@@ -1119,8 +1119,8 @@
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
           description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
+        - title: 句无忧
+          url: https://www.check51.com/
+          logo: 句无忧.jpg
+          description: 违禁词检测。
         
