@@ -519,14 +519,14 @@
           description: Search & download thousands of logos instantly.
     - term: 动态资源
       links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
+        - title: LookAE
+          url: https://www.lookae.com/
+          logo: lookae.png
+          description: AE插件、脚本、模版分享。
+        - title: NewCGer
+          url: https://www.newcger.com/
+          logo: newcger.png
+          description: AE插件下载网。
         - title: 方正字库
           url: http://www.foundertype.com/
           logo: Fondertype.png
