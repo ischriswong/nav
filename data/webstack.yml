@@ -846,9 +846,9 @@
           url: http://ps.gaoding.com/
           logo: photoshop.png
           description: 搞定设计旗下在线PS。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
+        - title: removebg
+          url: https://www.remove.bg/
+          logo: removebg.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
         
     - term: 谷歌插件
