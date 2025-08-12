@@ -830,18 +830,18 @@
           url: https://www.videofk.com/
           logo: VideoFK.png
           description: 视频在线解析下载。
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
+        - title: AirPortal
+          url: https://www.airportal.cn/
+          logo: airportal.png
+          description: 在线文件传输网站。
+        - title: 草料二维码
+          url: https://www.cli.im/
+          logo: 草料二维码.png
+          description: 一站式二维码生成工具。
+        - title: Light Notes
+          url: https://notes.lightxi.com/
+          logo: lightnotes.ico
+          description: 在线便签。
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
           logo: svgomg.png
