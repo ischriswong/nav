@@ -1103,14 +1103,14 @@
           description: IT 互联网开源编程书籍免费阅读与下载。
     - term: 社媒运营
       links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+        - title: 小V猫
+          url: https://baoteyun.com/vcat
+          logo: 小V猫.png
+          description: 免费的自媒体平台多账号管理。
+        - title: 蚁小二
+          url: https://www.yixiaoer.cn/
+          logo: 蚁小二.png
+          description: 免费的新媒体内容分发软件。
         - title: 经管之家
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
