@@ -842,10 +842,10 @@
           url: https://notes.lightxi.com/
           logo: lightnotes.ico
           description: 在线便签。
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
+        - title: 在线PS
+          url: http://ps.gaoding.com/
+          logo: photoshop.png
+          description: 搞定设计旗下在线PS。
         - title: 稿定抠图
           url: https://www.gaoding.com
           logo: gaoding.png
