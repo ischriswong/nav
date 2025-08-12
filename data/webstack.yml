@@ -829,7 +829,7 @@
         - title: VideoFK
           url: https://www.videofk.com/
           logo: VideoFK.png
-          description: 视频在线解析下载。
+          description: 国外视频在线解析下载。
         - title: AirPortal
           url: https://www.airportal.cn/
           logo: airportal.png
@@ -850,6 +850,10 @@
           url: https://www.remove.bg/
           logo: removebg.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
+        - title: 下载狗
+          url: https://www.xiazaitool.com/
+          logo: 下载狗.png
+          description: 视频在线解析下载。
         
     - term: 谷歌插件
       links:
