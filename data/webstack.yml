@@ -513,10 +513,10 @@
           logo: freepik.png
           url: https://www.freepik.com/
           description: 综合素材网站。
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
+        - title: Vecteezy
+          logo: vecteezy.png
+          url: https://www.vecteezy.com/
+          description: 免费高质量矢量素材库。
     - term: 动态资源
       links:
         - title: LookAE
@@ -804,6 +804,10 @@
           url: https://cloud.oracle.com/?region=us-phoenix-1&tenant=ischriswong&username=ischriswong%40gmail.com&provider=OracleIdentityCloudService/
           logo: oracle.png
           description: 免费服务器。
+        - title: 谷歌云
+          url: https://cloud.google.com/
+          logo: 谷歌云.png
+          description: 长期免费的服务器。
         - title: EU.org
           url: https://nic.eu.org/
           logo: euorg.png
