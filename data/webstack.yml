@@ -517,6 +517,10 @@
           logo: vecteezy.png
           url: https://www.vecteezy.com/
           description: 免费高质量矢量素材库。
+        - title: Mixkit
+          logo: mixkit.png
+          url: https://mixkit.co/
+          description: 提供免费高画质影片、音乐、音效和影片模板的素材网站。
     - term: 动态资源
       links:
         - title: LookAE
