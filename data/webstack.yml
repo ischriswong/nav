@@ -816,6 +816,10 @@
           url: https://nic.eu.org/
           logo: euorg.png
           description: free domain names since 1996.
+        - title: KG域名注册商
+          url: https://cctld.kg/en/
+          logo: cctldkg.webp
+          description: 吉尔吉斯斯坦教育域名注册。
         - title: Upstash
           url: https://upstash.com/
           logo: upstash-icon-white-bg.png
