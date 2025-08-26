@@ -832,6 +832,14 @@
           url: https://img.wangying.me/
           logo: img.png
           description: 基于Cloudflare的免费图床。
+        - title: NotionNext帮助手册
+          url: https://docs.tangly1024.com/
+          logo: NotionNext.png
+          description: NotionNext帮助手册。
+        - title: Cloudflare图床
+          url: https://img.wangying.me/
+          logo: img.png
+          description: 基于Cloudflare的免费图床。
     - term: 在线工具
       links:
         - title: Convertio
