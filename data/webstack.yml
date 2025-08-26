@@ -836,10 +836,10 @@
           url: https://docs.tangly1024.com/
           logo: NotionNext.png
           description: NotionNext帮助手册。
-        - title: Cloudflare图床
-          url: https://img.wangying.me/
-          logo: img.png
-          description: 基于Cloudflare的免费图床。
+        - title: Gmeek快速上手
+          url: https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html
+          logo: gmeek.png
+          description: Gmeek博客使用手册。
     - term: 在线工具
       links:
         - title: Convertio
