@@ -668,6 +668,10 @@
           url: https://www.midjourney.com/
           logo: Midjourney.png
           description: 一款强大的 AI 绘画工具。
+        - title: 即梦
+          url: https://jimeng.jianying.com/
+          logo: 即梦.jpg
+          description: 字节跳动推出的一站式AI创作平台。
         - title: Stable Diffusion
           url: https://stability.ai/
           logo: Stable_Diffusion.png
