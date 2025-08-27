@@ -455,10 +455,14 @@
           logo: iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库。
-        - title: iconmonstr
-          logo: iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
+        - title: Icons8
+          logo: icons8.png
+          url: https://icons8.com/
+          description: 提供图标和设计素材的资源平台。
+        - title: Unsplash
+          logo: unsplash.png
+          url: https://unsplash.com/
+          description: 免费高质量图片的网站。
         - title: Icon Archive
           logo: iconarchive.png
           url: http://www.iconarchive.com/
@@ -593,18 +597,18 @@
           logo: Vimeo.png
           url: https://vimeo.com/
           description: 以专业创作者为主的在线视频分享平台。
-        - title: 365PSD
-          logo: 365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
-        - title: Medialoot
-          logo: Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot.
-        - title: 千图网
-          logo: qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站.
+        - title: Behance
+          logo: behance.png
+          url: https://www.behance.net/
+          description: 全球创意作品展示与分享平台。
+        - title: Pinterest
+          logo: pinterest.png
+          url: https://www.pinterest.com/
+          description: 图片分享与灵感收藏平台。
+        - title: Dribbble
+          logo: dribbble.png
+          url: https://dribbble.com/
+          description: 一个面向设计师的创意社区。
         - title: 千库网
           logo: qianku.png
           url: http://588ku.com/
