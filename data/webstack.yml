@@ -878,6 +878,10 @@
           url: https://www.unscreen.com/
           logo: unscreen.png
           description: 在线视频与GIF去除背景工具。
+        - title: TinyPNG
+          url: https://tinypng.com/
+          logo: tinypng.png
+          description: 智能压缩您的WebP、JPEG和PNG图片。
         - title: 下载狗
           url: https://www.xiazaitool.com/
           logo: 下载狗.png
