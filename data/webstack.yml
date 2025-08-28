@@ -786,6 +786,10 @@
           url: https://www.uderzo.it/main_products/space_sniffer/
           logo: 拼图.png
           description: 磁盘空间分析工具。
+        - title: Upscayl
+          url: https://upscayl.org/
+          logo: Upscayl.png
+          description: 免费开源的AI图片无损放大工具。
     - term: 站长之家
       links:
         - title: 阿里云
