@@ -1145,10 +1145,10 @@
           url: https://pc.meitu.com/
           logo: meitu.png
           description: 免费在线P图抠图拼图。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
+        - title: 稿定设计
+          url: https://www.gaoding.com/
+          logo: 稿定设计.png
+          description: 一款在线设计平台，提供海量设计模板。
     - term: 社媒运营
       links:
         - title: 小V猫
