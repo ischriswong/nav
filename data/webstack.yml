@@ -1044,10 +1044,10 @@
           url: https://www.ruancang.net/
           logo: 软仓.png
           description: Windows端的专业软件导航网站。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
+        - title: MacWk
+          url: https://macwk.cn/
+          logo: MacWk.png
+          description: 精品mac软件下载。
     - term: 博客论坛
       links:
         - title: 果核剥壳
