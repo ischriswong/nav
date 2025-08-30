@@ -898,6 +898,10 @@
           url: https://www.xiazaitool.com/
           logo: 下载狗.png
           description: 视频在线解析下载。
+        - title: Vocal Remover
+          url: https://vocalremover.org/zh/
+          logo: VocalRemover.jpg
+          description: 在线免费人声、伴奏分离器。
         
     - term: 谷歌插件
       links:
