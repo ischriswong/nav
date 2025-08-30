@@ -425,14 +425,14 @@
   list:
     - term: 综合素材
       links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
+        - title: 爱给网
+          logo: 爱给网.png
+          url: https://www.aigei.com/
+          description: 免费的音效素材。
+        - title: 100font
+          logo: 100font.ico
+          url: https://www.100font.com/
+          description: 一个专门收集整理“免费商用字体”的网站。
         - title: 天翼云盘
           logo: 天翼云盘.jpg
           url: https://cloud.189.cn/
