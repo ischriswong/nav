@@ -433,18 +433,22 @@
           logo: 100font.ico
           url: https://www.100font.com/
           description: 一个专门收集整理“免费商用字体”的网站。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          url: https://www.jianguoyun.com/
-          description: 坚果云官网。
-        - title: pCloud
-          logo: pcloud.png
-          url: https://www.pcloud.com/
-          description: 欧洲终身云端硬盘。
+        - title: 字由
+          logo: 字由.png
+          url: https://www.hellofont.cn/
+          description: 字由是免费的字体管理工具。
+        - title: 在线书法字体
+          logo: shufa.png
+          url: http://www.shufaziti.com/
+          description: 可以生成书法字体的矢量文件。
+        - title: 求字体
+          logo: quiziti.png
+          url: https://www.qiuziti.com/
+          description: 在线识别图片中的中文字体。
+        - title: WhatTheFont
+          logo: myfonts.png
+          url: https://www.myfonts.com/WhatTheFont/
+          description: 在线识别图片中的英文字体。
     - term: 图片素材
       links:
         - title: 免扣图片网
