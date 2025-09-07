@@ -832,6 +832,10 @@
           url: https://nic.eu.org/
           logo: euorg.png
           description: free domain names since 1996.
+        - title: DigitalPlat
+          url: https://dash.domain.digitalplat.org/
+          logo: dpdns.jpg
+          description: DigitalPlat FreeDomain.
         - title: KG域名注册商
           url: https://cctld.kg/en/
           logo: cctldkg.webp
