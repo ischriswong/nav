@@ -758,10 +758,6 @@
           url: https://notes.lightxi.com/
           logo: lightnotes.ico
           description: 在线便签。
-        - title: 在线PS
-          url: http://ps.gaoding.com/
-          logo: photoshop.png
-          description: 搞定设计旗下在线PS。
         - title: Removebg
           url: https://www.remove.bg/
           logo: removebg.png
@@ -1029,6 +1025,10 @@
   list: 
     - term: 摄影剪辑
       links:
+        - title: 在线PS
+          url: http://ps.gaoding.com/
+          logo: photoshop.png
+          description: 稿定设计旗下在线PS。
         - title: 美图秀秀
           url: https://pc.meitu.com/
           logo: meitu.png
