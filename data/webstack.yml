@@ -572,6 +572,10 @@
           url: https://suno.com/
           logo: suno.png
           description: AI Music.
+        - title: Fish Audio
+          url: https://fish.audio/zh-CN/
+          logo: FishAudio.png
+          description: 最佳AI文字转语音和免费语音克隆。
     - term: 软件下载
       links:
         - title: LocalSend
