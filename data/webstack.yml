@@ -678,6 +678,10 @@
           url: https://upscayl.org/
           logo: Upscayl.png
           description: 免费开源的AI图片无损放大工具。
+        - title: Pot
+          url: https://pot-app.com/
+          logo: pot.png
+          description: 跨平台划词翻译和OCR。
     - term: 站长之家
       links:
         - title: 阿里云
