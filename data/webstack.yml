@@ -590,10 +590,10 @@
           url: https://getquicker.net/
           logo: quicker.png
           description: 电脑快捷指令-您的指尖工具箱
-        - title: uTools
-          url: https://www.u-tools.cn/
-          logo: uTools.png
-          description: 电脑快捷指令-Mac端
+        - title: Bitwarden
+          url: https://bitwarden.com/
+          logo: Bitwarden.png
+          description: 一款开源的、自由的密码管理系统。
         - title: 向日葵远程控制
           url: https://sunlogin.oray.com/
           logo: 向日葵.png
