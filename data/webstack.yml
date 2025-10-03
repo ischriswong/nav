@@ -748,6 +748,18 @@
           url: https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html
           logo: gmeek.png
           description: Gmeek博客使用手册。
+        - title: SMS-Activate
+          url: https://sms-activate.io/cn
+          logo: SMS-Activate.png
+          description: 在线接受短信的虚拟号码服务。
+        - title: ToDesk云电脑
+          url: https://pc.todesk.com/
+          logo: todeskpc.png
+          description: 云游戏、云设计、AIGC，超高清画质即开即用。
+        - title: 青椒云电脑
+          url: https://www.qingjiaocloud.com/
+          logo: 青椒云.png
+          description: 适合设计师的云电脑服务商。
     - term: 在线工具
       links:
         - title: Convertio
@@ -794,14 +806,6 @@
           url: https://vocalremover.org/zh/
           logo: VocalRemover.jpg
           description: 在线免费人声、伴奏分离器。
-        - title: ToDesk云电脑
-          url: https://pc.todesk.com/
-          logo: todeskpc.png
-          description: 云游戏、云设计、AIGC，超高清画质即开即用。
-        - title: 青椒云电脑
-          url: https://www.qingjiaocloud.com/
-          logo: 青椒云.png
-          description: 适合设计师的云电脑服务商。
         
     - term: 谷歌插件
       links:
