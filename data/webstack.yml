@@ -700,10 +700,14 @@
           url: https://vercel.com/
           logo: Vercel.png
           description: 静态网站部署托管平台。
-        - title:  Resend
+        - title: Resend
           url: https://resend.com/
           logo: resend.png
           description: 免费域名邮件发送平台。
+        - title: Cusdis
+          url: https://cusdis.com/
+          logo: Cusdis.png
+          description: 轻量级开源免费博客评论插件。
         - title: Backblaze
           url: https://www.backblaze.com/
           logo: backblaze.png
