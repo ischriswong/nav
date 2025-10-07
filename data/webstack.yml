@@ -1002,6 +1002,14 @@
           url: https://linux.do/
           logo: linux-do.png
           description: 新的理想型社区。
+        - title: 我不是咕咕鸽
+          url: https://blog.laoda.de/
+          logo: guguge.png
+          description: https://blog.laoda.de/
+        - title: 罗磊的独立博客
+          url: https://luolei.org/
+          logo: 罗磊的独立博客.png
+          description: https://luolei.org/
     - term: 导航网站
       links:
         - title: 阿虚同学的储物间
