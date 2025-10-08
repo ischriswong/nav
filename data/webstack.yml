@@ -682,6 +682,22 @@
           url: https://pot-app.com/
           logo: pot.png
           description: 跨平台划词翻译和OCR。
+        - title: Syncthing
+          url: https://syncthing.net/
+          logo: Syncthing.png
+          description: 开源免费跨平台的文件同步工具。
+        - title: FreeFileSync
+          url: https://freefilesync.org/
+          logo: freefilesync.png
+          description: 本地文件同步功能强大的工具。
+        - title: VeraCrypt
+          url: https://veracrypt.fr/
+          logo: VeraCrypt.png
+          description: 免费开源的磁盘加密软件。
+        - title: Cryptomator
+          url: https://cryptomator.org/
+          logo: Cryptomator.png
+          description: 免费开源的云盘文件加密工具。
     - term: 站长之家
       links:
         - title: 阿里云
