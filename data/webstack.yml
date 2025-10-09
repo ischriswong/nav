@@ -259,6 +259,10 @@
           logo: mega.png
           url: https://mega.io/
           description: Protect your Online Privacy.
+        - title: Proton
+          logo: proton.png
+          url: https://drive.proton.me/
+          description: 端到端加密的开源瑞士云盘。
         - title: 文叔叔
           logo: wenshushu.png
           url: https://www.wenshushu.cn/
