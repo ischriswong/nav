@@ -203,6 +203,10 @@
           description: 免费一次性电子邮件。
     - term: 云端硬盘
       links:
+        - title: NAS
+          logo: NAS.png
+          url: https://chriswong.fnos.net/
+          description: 装载飞牛系统的Macinas。
         - title: Alist
           logo: alist.png
           url: https://nas.wangying.me/
@@ -330,6 +334,10 @@
           logo: 海盗湾.jpg
           url: https://thepiratebay.org/
           description: 全球知名的BT种子分享网站。
+        - title: SeedHub
+          logo: seedhub.png
+          url: https://www.seedhub.cc/
+          description: Nas电影下载资源站。
     - term: 播客音乐
       links:
         - title: Podcasts
