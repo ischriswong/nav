@@ -792,6 +792,14 @@
           url: https://www.qingjiaocloud.com/
           logo: 青椒云.png
           description: 适合设计师的云电脑服务商。
+        - title: iStoreOS
+          url: http://192.168.100.1/
+          logo: iStoreOS.png
+          description: iStoreOS软路由系统。
+        - title: 花生壳
+          url: https://hsk.oray.com/
+          logo: 花生壳.png
+          description: 向日葵旗下免费的内网穿透服务。
     - term: 在线工具
       links:
         - title: Convertio
