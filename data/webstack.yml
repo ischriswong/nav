@@ -793,7 +793,7 @@
           logo: 青椒云.png
           description: 适合设计师的云电脑服务商。
         - title: iStoreOS
-          url: http://192.168.100.1/
+          url: https://chriswong.ddnsto.com/
           logo: iStoreOS.png
           description: iStoreOS软路由系统。
         - title: 花生壳
