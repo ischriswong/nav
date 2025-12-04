@@ -1105,6 +1105,10 @@
           url: http://ps.gaoding.com/
           logo: photoshop.png
           description: 稿定设计旗下在线PS。
+        - title: StartAI
+          url: https://istarry.com.cn/
+          logo: StartAI.png
+          description: 基于Photoshop推出的AI图像处理插件。
         - title: 美图秀秀
           url: https://pc.meitu.com/
           logo: meitu.png
