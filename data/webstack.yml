@@ -441,6 +441,10 @@
   list:
     - term: 综合素材
       links:
+        - title: 像素魔方
+          logo: 像素魔方.png
+          url: https://kk.xiangsukk.cn/
+          description: 全网素材下载。
         - title: 爱给网
           logo: 爱给网.png
           url: https://www.aigei.com/
