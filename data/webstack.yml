@@ -1127,6 +1127,10 @@
           description: 一款在线设计平台，提供海量设计模板。
     - term: 社媒运营
       links:
+        - title: 秀米编辑器
+          url: https://xiumi.us/
+          logo: 秀米.png
+          description: 微信公众号图文编辑和H5制作。
         - title: 小V猫
           url: https://baoteyun.com/vcat
           logo: 小V猫.png
