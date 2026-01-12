@@ -368,6 +368,10 @@
           logo: applemusic.png
           url: https://music.apple.com/
           description: 一切尽在Apple Music。
+        - title: YouTube Music
+          logo: youtube_music.png
+          url: https://music.youtube.com/
+          description: 依托 YouTube 庞大内容库的音乐平台。
         - title: Alger Music Player
           logo: 网抑云.png
           url: http://mc.alger.fun/
