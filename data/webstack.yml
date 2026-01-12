@@ -785,7 +785,7 @@
           logo: imgbed.png
           description: 基于Telegraph的免费临时图床。
         - title: Cloudflare图床
-          url: https://img.wangying.me/
+          url: https://img.digitalnomad.hk/
           logo: img.png
           description: 基于Cloudflare的免费图床。
         - title: NotionNext帮助手册
