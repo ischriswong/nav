@@ -1131,6 +1131,10 @@
           description: 一款在线设计平台，提供海量设计模板。
     - term: 社媒运营
       links:
+        - title: 微信公众号
+          url: https://mp.weixin.qq.com/
+          logo: 微信公众号.png
+          description: 微信公众号。
         - title: 秀米编辑器
           url: https://xiumi.us/
           logo: 秀米.png
