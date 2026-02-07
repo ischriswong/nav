@@ -348,6 +348,10 @@
           description: Nas电影下载资源站。
     - term: 播客音乐
       links:
+        - title: Ever Play
+          logo: everplay.png
+          url: https://apps.apple.com/cn/app/ever-play-hifi-%E9%AB%98%E6%B8%85%E7%BD%91%E7%9B%98%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/id1202642773/
+          description: HIFI高清网盘音乐播放器。
         - title: Podcasts
           logo: applepodcasts.png
           url: https://podcasts.apple.com/
