@@ -1020,6 +1020,10 @@
           url: https://macwk.cn/
           logo: MacWk.png
           description: 精品mac软件下载。
+        - title: 海搜
+          url: https://haisou.cc/
+          logo: 海搜.ico
+          description: 网盘资源搜索。
     - term: 博客论坛
       links:
         - title: 果核剥壳
