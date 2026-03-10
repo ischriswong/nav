@@ -870,10 +870,10 @@
           url: https://vocalremover.org/zh/
           logo: VocalRemover.jpg
           description: 在线免费人声、伴奏分离器。
-        - title: PDFgear
-          url: https://www.pdfgear.com/zh/
-          logo: pdfgear.jpg
-          description: 免费PDF编辑工具。
+        - title: PDFCandy
+          url: https://pdfcandy.com/cn/edit-pdf.html
+          logo: pdfcandy.jpg
+          description: 免费在线PDF编辑工具。
         
     - term: 谷歌插件
       links:
