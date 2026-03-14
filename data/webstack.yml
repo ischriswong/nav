@@ -669,7 +669,7 @@
         - title: RustDesk
           url: https://rustdesk.com/
           logo: rustdesk.png
-          description: 快速开源远程访问和支持软件。
+          description: 免费开源远程控制｜备用机必备
         - title: Bandizip
           url: https://sw.wangying.me/BandiZip.exe
           logo: Bandizip.png
@@ -734,6 +734,14 @@
           url: https://cryptomator.org/
           logo: Cryptomator.png
           description: 免费开源的云盘文件加密工具。
+        - title: Bark
+          url: https://bark.day.app/
+          logo: bark.png
+          description: IOS自定义通知推送工具｜备用机必装
+        - title: SmsForwarder-短信转发器
+          url: https://github.com/pppscn/SmsForwarder
+          logo: SmsForwarder.png
+          description: 消息转发工具｜备用机必装
     - term: 站长之家
       links:
         - title: 阿里云
